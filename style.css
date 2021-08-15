@@ -1,0 +1,11 @@
+
+ @font-face
+{
+font-family: banglaFontShonar;
+/* src: url('<%out.print(session.getAttribute("sess_baseurl")); %>/resources/template/fonts/fonts/Shonar.ttf');
+
+  Add your file location 
+  then link the font
+*/
+     src: url('../fonts/fonts/Nikosh.ttf');
+}
